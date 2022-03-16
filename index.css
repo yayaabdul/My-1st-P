@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(60, 60, 60);
+}
+.image{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    margin: auto;
+    display: block
+
+}
+.text-design{
+        text-align: center;
+        font-family: sans-serif;
+        color: white;
+        line-height: 10px;
+}
+.box{
+   
+   text-align: center;
+   background-color: white;
+   width: 40em;
+   padding: 18px 6px 18px 6px;
+   margin: 15px 290px 15px 290px;
+   border: 4px;
+   border-style:solid;
+   border-color:white;
+   color: black;
+   
+}
+
+.box:hover {
+    background-color: rgb(60, 60, 60);
+}
